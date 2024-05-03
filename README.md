@@ -1,12 +1,18 @@
-# Pendahuluan 
+# Pendahuluan
+
 Dokumentasi ini menyediakan panduan langkah demi langkah proses deployment portrait-web-app, berikut langkah-langkahnya:
 
-[Langkah-1 Instalasi NVM, NodeJS, dan Nginx]()
-[Langkah-2 Clone dan Build Aplikasi]()
-[Langkah-3 Pointing Domain dan Konfigurasi Reverse Proxy]()
-[Langkah-4 Instalasi HTTPS dan Certbot]()
-[Langkah-5 Instalasi dan Konfigurasi PM2]()
-[Panduan Lengkap]()
+[Langkah-1 Instalasi NVM, NodeJS, dan Nginx](https://github.com/PortraitDeveloper/portrait-webapp-deployment/blob/main/langkah1-instalasi-nvm-nodejs-nginx.md)
+
+[Langkah-2 Clone dan Build Aplikasi](https://github.com/PortraitDeveloper/portrait-webapp-deployment/blob/main/langkah2-clone-dan-build-aplikasi.md)
+
+[Langkah-3 Pointing Domain dan Konfigurasi Reverse Proxy](https://github.com/PortraitDeveloper/portrait-webapp-deployment/blob/main/langkah3-pointing-domain-dan-konfigurasi-reverse-proxy.md)
+
+[Langkah-4 Instalasi HTTPS dan Certbot](https://github.com/PortraitDeveloper/portrait-webapp-deployment/blob/main/langkah4-instalasi-https-dan-certbot.md)
+
+[Langkah-5 Instalasi dan Konfigurasi PM2](https://github.com/PortraitDeveloper/portrait-webapp-deployment/blob/main/langkah5-instalasi-dan-konfigurasi-pm2.md)
+
+Berikut Adalah [Panduan Lengkapnya](https://github.com/PortraitDeveloper/portrait-webapp-deployment/blob/main/full-guide.md)
 
 # Referensi
 
