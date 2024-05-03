@@ -112,7 +112,7 @@ IP_PUBLIC:3000
 
 ## 1. Pointing Domain
 
-**_Petunjuk: Berikut adalah [tutorial](https://youtu.be/beeAdVNNPZg) cara membeli dan mengkonfigurasi domain ke IP Public di VPS Biznet Gio Neo Lite _**
+**_Petunjuk: Berikut adalah [tutorial](https://youtu.be/beeAdVNNPZg) cara membeli dan mengkonfigurasi domain ke IP Public di VPS Biznet Gio Neo Lite_**
 
 ## 2. Arahkan ke Direktori /etc/nginx/conf.d
 
