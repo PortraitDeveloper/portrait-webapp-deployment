@@ -12,7 +12,7 @@ Dokumentasi ini menyediakan panduan langkah demi langkah proses deployment portr
 
 [Langkah-5 Instalasi dan Konfigurasi PM2](https://github.com/PortraitDeveloper/portrait-webapp-deployment/blob/main/langkah5-instalasi-dan-konfigurasi-pm2.md)
 
-Berikut Adalah [Panduan Lengkapnya](https://github.com/PortraitDeveloper/portrait-webapp-deployment/blob/main/full-guide.md)
+[Panduan Lengkap](https://github.com/PortraitDeveloper/portrait-webapp-deployment/blob/main/full-guide.md)
 
 # Referensi
 
