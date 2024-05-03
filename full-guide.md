@@ -1,4 +1,4 @@
-# Langkah-1 Instalasi NVM, Node.js, dan Nginx
+# Langkah-1 Instalasi NVM, NodeJS, dan Nginx
 
 ## 1. Persiapkan Dependencies
 
